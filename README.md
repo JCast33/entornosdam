@@ -1,11 +1,7 @@
-# entornosdam
+# PROJECT CASTLE
 Repositorio de pruebas de Entornos de Desarrollo 2024-2025
 
 # Prueba de GitHub - Jorge Castillo
-
-## Prueba de usuario- 
-Es una prueba para ver si la modificación del repositorio la realizó realmente
-Jorge Castillo u otra persona. Prueba 1- Ya que el ejemplo anterior aparece como un usuario distinto a JCast33 hizo el cambio en el repositorio.
 
 ## Descripción
 
