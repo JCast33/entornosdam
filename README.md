@@ -17,6 +17,6 @@ Este repositorio contiene la prueba realizada por Jorge Castillo, un alumno que 
 
 ### INCLUYE
 
--Método para visualizar la fecha actual.
--(más funciones en un futuro)
+1. Método para visualizar la fecha actual.
+2. Implementada clase Usuario y modificación de proyecto principal para la gestión de 3 usuarios.
 
