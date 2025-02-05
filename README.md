@@ -15,3 +15,8 @@ Este repositorio contiene la prueba realizada por Jorge Castillo, un alumno que 
 3. Realizar commits y entender la importancia de los mensajes de commit.
 4. Trabajar con ramas para gestionar diferentes versiones del proyecto.
 
+### INCLUYE
+
+-Método para visualizar la fecha actual.
+-(más funciones en un futuro)
+
